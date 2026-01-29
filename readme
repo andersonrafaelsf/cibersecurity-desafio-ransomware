@@ -1,0 +1,17 @@
+# Desafio DIO – Ransomware em Python
+
+## 📌 Sobre o Projeto
+Este projeto foi desenvolvido como parte de um desafio educacional da plataforma DIO, com o objetivo de compreender, em ambiente controlado, o funcionamento básico de um ransomware e seus impactos na segurança da informação.
+
+O foco do projeto é **aprendizado**, não sendo destinado a uso malicioso.
+
+---
+
+## 🎯 Objetivo
+Aplicar conceitos teóricos de cibersegurança em um cenário prático, entendendo como ocorre o processo de criptografia e descriptografia de arquivos, além de reforçar a importância de boas práticas defensivas.
+
+---
+
+## 📂 Estrutura do Projeto
+- **encrypter.py**: script responsável por criptografar arquivos.
+- **decrypter.py**: script responsável por descriptografar a
